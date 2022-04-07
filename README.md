@@ -1,5 +1,17 @@
-- 👋 @REGZ-PL
-- 👀 Programuje
-- 🌱 Uczę się nowych perspektyw
-- 💞️ Możemy tworzyć projekty razem
-- 📫 Kontaktuj się przez github
++----------------------------------------------------------------------+
+| Prawa autorskie REGZ-PL                                              |
++----------------------------------------------------------------------+
+|                                                                      |
+| 👋 @REGZ-PL:                                                   PL:   |
+| Witam serdecznie                                                     |
+|                                                                      |
+| 👀 Programuje                                                        |
+|                                                                      |
+| 🌱 Uczę się nowych perspektyw                                        |
+|                                                                      |
+| 💞️ Możemy tworzyć projekty razem                                     |
+|                                                                      |
+| 📫 Kontaktuj się przez github                                        |
++----------------------------------------------------------------------+
+| Autor: REGZ.PL                                                       |
++----------------------------------------------------------------------+
